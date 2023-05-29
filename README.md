@@ -27,11 +27,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Frontend-Mentor-Calculator-app.png
+![](./images/Frontend-Mentor-Calculator-app.png)
 
 ### Links
 
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://calculator-project-by-me.netlify.app)
 
 ## My process
 
